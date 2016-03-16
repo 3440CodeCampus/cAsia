@@ -1,0 +1,16 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中亚-Mar13.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中亚-Mar14.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中亚working.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中亚地图 filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中国地图 filter=lfs diff=lfs merge=lfs -text
+./中亚简史/俄罗斯 filter=lfs diff=lfs merge=lfs -text
+./中亚简史/喀喇汗王朝初期同萨曼王朝的战争(840-950).doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/花剌子模简史.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/蒙古帝国 filter=lfs diff=lfs merge=lfs -text
+./欧洲/1556哈布斯堡-欧洲.jpg filter=lfs diff=lfs merge=lfs -text
+./欧洲/塞浦路斯.jpg filter=lfs diff=lfs merge=lfs -text
+./欧洲/意大利地图.jpg filter=lfs diff=lfs merge=lfs -text
+./欧洲/欧洲人种.jpg filter=lfs diff=lfs merge=lfs -text
+./欧洲/神圣罗马帝国.jpg filter=lfs diff=lfs merge=lfs -text
+./欧洲/西班牙900-1300地图.gif filter=lfs diff=lfs merge=lfs -text
