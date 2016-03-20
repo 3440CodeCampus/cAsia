@@ -221,3 +221,14 @@
 ./俄罗斯/河流[[:space:]]-[[:space:]]俄东.jpg filter=lfs diff=lfs merge=lfs -text
 ./匈奴/中亚-7-12世纪.jpg filter=lfs diff=lfs merge=lfs -text
 ./匈奴/未命名-1.jpg filter=lfs diff=lfs merge=lfs -text
+./中亚地图/卡耳希.jpg filter=lfs diff=lfs merge=lfs -text
+./中亚地图/塔吉克斯坦.jpg filter=lfs diff=lfs merge=lfs -text
+./中亚地图/萨曼王朝[[:space:]]Samanid_dynasty_(819–999).GIF filter=lfs diff=lfs merge=lfs -text
+./中亚地图/萨曼王朝[[:space:]]的灭亡.jpg filter=lfs diff=lfs merge=lfs -text
+./中亚地图/西夏-金-宋-灭乃蛮[[:space:]]建蒙古.jpg filter=lfs diff=lfs merge=lfs -text
+./中亚地图/谋尔夫-巴尔赫-哈孜那朝.jpg filter=lfs diff=lfs merge=lfs -text
+./中亚地图/霍占德-苦盏.jpg filter=lfs diff=lfs merge=lfs -text
+./中国地图/中国5k[[:space:]]x[[:space:]]4K.jpg filter=lfs diff=lfs merge=lfs -text
+./中国地图/西夏-金-宋-灭乃蛮[[:space:]]建蒙古.jpg filter=lfs diff=lfs merge=lfs -text
+./俄罗斯/河流[[:space:]]-[[:space:]]俄东.jpg filter=lfs diff=lfs merge=lfs -text
+./匈奴/霍占德-苦盏.jpg filter=lfs diff=lfs merge=lfs -text
