@@ -18,3 +18,9 @@
 ./中亚简史/中亚-Mar18.doc filter=lfs diff=lfs merge=lfs -text
 ./中亚简史/匈奴 filter=lfs diff=lfs merge=lfs -text
 ./中亚简史/匈奴时代.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中亚-Mar21.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中亚-Mar22.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中国历史上16个少数民族.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/游牧民族帝国.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/中亚-Mar27.doc filter=lfs diff=lfs merge=lfs -text
+./中亚简史/游牧民族帝国-Mar27.doc filter=lfs diff=lfs merge=lfs -text
