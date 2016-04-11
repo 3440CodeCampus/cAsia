@@ -810,3 +810,17 @@
 ./中国地图/西夏-金-宋-灭乃蛮[[:space:]]建蒙古.jpg filter=lfs diff=lfs merge=lfs -text
 ./中国地图/西里古里-中印孟尼泊尔.jpg filter=lfs diff=lfs merge=lfs -text
 ./俄罗斯/河流[[:space:]]-[[:space:]]俄东.jpg filter=lfs diff=lfs merge=lfs -text
+./1B中亚地图/卡尔希-Qarshi-[[:space:]]卡耳希.png filter=lfs diff=lfs merge=lfs -text
+./1B中亚地图/萨曼王朝[[:space:]]Samanid_dynasty_(819–999).GIF filter=lfs diff=lfs merge=lfs -text
+./1B中亚地图/萨曼王朝[[:space:]]的灭亡.jpg filter=lfs diff=lfs merge=lfs -text
+./1B中亚地图/西夏-金-宋-灭乃蛮[[:space:]]建蒙古.jpg filter=lfs diff=lfs merge=lfs -text
+./1C中亚影视/3[[:space:]]之伊犁河畔[[:space:]]第三集[[:space:]]-中亚简史-.mp4 filter=lfs diff=lfs merge=lfs -text
+./中国历朝地图/8.25何期大意失荆州，[[:space:]]魏武薨后丕篡汉.jpg filter=lfs diff=lfs merge=lfs -text
+./中国历朝地图/8.2董卓身死汉宫中[[:space:]]李郭反水诛王允.jpg filter=lfs diff=lfs merge=lfs -text
+./中国历朝地图/8.3界桥袁绍败公孙[[:space:]]匡亭魏武一敌三.jpg filter=lfs diff=lfs merge=lfs -text
+./中国历朝地图/8.4曹操怒兴青州兵[[:space:]]陶谦悲看尸如山.jpg filter=lfs diff=lfs merge=lfs -text
+./中国历朝地图/8.5陈宫愤懑迎吕布[[:space:]]刘备欣喜得徐州.jpg filter=lfs diff=lfs merge=lfs -text
+./中国历朝地图/8.6袁绍大破公孙瓒[[:space:]]吕布背信刘玄德.jpg filter=lfs diff=lfs merge=lfs -text
+./中国地图/中国5k[[:space:]]x[[:space:]]4K.jpg filter=lfs diff=lfs merge=lfs -text
+./中国地图/西夏-金-宋-灭乃蛮[[:space:]]建蒙古.jpg filter=lfs diff=lfs merge=lfs -text
+./俄罗斯/河流[[:space:]]-[[:space:]]俄东.jpg filter=lfs diff=lfs merge=lfs -text
